@@ -67,3 +67,38 @@ for(i=0;i<numbers.length;i++){
    }
 }
 console.log(smallest);
+
+
+
+
+// 4.find odd length string names from friend array 
+
+
+// let array = ['shanjid','shamim','rana','zehanur'];
+
+// function oddFriend(array)
+//      {
+//          /* error handle section */
+
+//         if(typeof array != "string"){
+//             return "Please enter a valid string";
+//           }
+//           if(array<='array'){
+//             return "Please enter a valid string";
+//           }
+           
+//           /* error handle section end */
+
+
+//           /* coding section start */
+
+//         for (let i = 0; i <= array.length; i++) {
+//           if(i%2 !== 0){
+//             array[0] = array.length;
+           
+//           }
+//         }
+//         return array[0];
+//       }
+//       /* coding section end */
+//       console.log(array[0]);

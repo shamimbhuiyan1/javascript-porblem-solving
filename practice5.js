@@ -23,4 +23,4 @@ function mularDam(quantity){
   return price;
 }
 
-console.log(mularDam(50))
+console.log(mularDam(45))
